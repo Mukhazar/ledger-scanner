@@ -1,8 +1,3 @@
-from auth import check_access
-
-if not check_access():
-    st.stop()
-
 """Ledger Scanner — production Streamlit app.
 Run:  streamlit run app.py
 """
