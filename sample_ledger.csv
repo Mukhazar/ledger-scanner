@@ -1,0 +1,27 @@
+Doc Date,Doc No,Account Code,Account Name,Description,Net Amount,Posted By,Posting Time
+2024-01-03,JE001,1100,Bank - Main,Opening balance,150000.00,admin,09:15:00
+2024-01-05,JE002,5100,Office Supplies,Stationery purchase,1247.55,jane.d,10:30:00
+2024-01-06,JE003,2100,Accruals,Utilities accrual,450.00,jane.d,11:00:00
+2024-01-08,JE004,1100,Bank - Main,Utilities paid,-450.00,jane.d,11:02:00
+2024-01-13,JE005,5100,Office Supplies,Weekend purchase,89.40,jane.d,14:20:00
+2024-01-15,JE006,6200,Consultancy,Consultancy fee paid,25000.00,admin,15:45:00
+2024-01-22,JE007,5100,Office Supplies,Cleaning services,450.00,mike.r,09:30:00
+2024-02-01,JE008,4100,Sales Revenue,Sales reversal / adjustment,9999.00,admin,23:30:00
+2024-02-14,JE009,5400,Travel,Client travel,1250.75,mike.r,10:15:00
+2024-02-20,JE010,6200,Consultancy,Marketing fee,50000.00,admin,02:45:00
+2024-02-25,JE011,1100,Bank - Main,Transfer out,-50000.00,admin,02:47:00
+2024-02-28,JE012,5100,Office Supplies,Utilities Jan,342.10,jane.d,09:00:00
+2024-03-05,JE013,5400,Travel,Client dinner,199.00,mike.r,13:00:00
+2024-03-11,JE014,6200,Consultancy,Legal fees,15000.00,admin,10:15:00
+2024-03-15,JE015,5100,Office Supplies,IT services,1999.00,jane.d,11:45:00
+2024-03-22,JE016,4100,Sales Revenue,Discount given adjustment,2500.00,admin,16:20:00
+2024-03-23,JE017,1100,Bank - Main,IT services paid,-1999.00,jane.d,11:47:00
+2024-03-30,JE018,5100,Office Supplies,Subscriptions,123.45,jane.d,09:15:00
+2024-04-06,JE019,5100,Office Supplies,Saturday entry,500.00,admin,11:00:00
+2024-04-15,JE020,1400,Prepayments,Insurance prepayment,6000.00,jane.d,14:30:00
+2024-04-20,JE021,5100,Office Supplies,Subscriptions,123.45,jane.d,09:20:00
+2024-05-05,JE022,5100,Office Supplies,Subscriptions,123.45,jane.d,09:22:00
+2024-06-10,JE023,6200,Consultancy,Correction to prior fee,-2500.00,admin,22:15:00
+2024-06-15,JE025,5100,Office Supplies,Supplies,156.20,mike.r,14:00:00
+2024-07-04,JE026,5100,Office Supplies,July 4 entry,800.00,admin,11:00:00
+2024-12-25,JE027,5100,Office Supplies,Xmas day entry,750.00,admin,13:30:00
