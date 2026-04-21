@@ -24,8 +24,7 @@ def clean_amount(series: pd.Series) -> pd.Series:
     # Detect European format (comma as decimal separator): "1.234,56"
     # Heuristic: if there are both dots and commas, and the LAST separator is a comma,
     # it's European. Otherwise assume US format.
-    def _normalize(val) -> str:
-    val = str(val).strip()
+def _normalize(val: str) -> str:
     if not val or val.lower() in ("nan", "none", ""):
         return ""
         has_dot = "." in val
